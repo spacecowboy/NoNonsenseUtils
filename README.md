@@ -4,8 +4,10 @@ NoNonsenseUtils
 Various utility implementations for Android, such as TextViews that
 handle links properly.
 
-## Links in TextViews or EditText Adding links to TextViews is easy in
-Android. It is completely broken however when done in TextViews that
+## Links in TextViews or EditText
+
+Adding links to TextViews is easy in Android. It is completely
+broken however when done in TextViews that
 populate ListItems, or in EditTexts.  The code implemented in
 _TextMethods.java_ solves the problems in these two circumstances.
 
